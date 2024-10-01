@@ -1,0 +1,21 @@
+.odd {
+    background-color: rgb(219, 91, 151);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.odd.cooler { 
+    font-size: 24px;
+}
+
+/* se puede poner cooler a four para ajustar text */
+
+#two {
+    color: rgb(61, 61, 221);
+    font-size: 36px;
+}
+
+#four {
+    background-color: rgb(131, 238, 131);
+    font-size: 24px;
+    font-weight: bold;
+}
